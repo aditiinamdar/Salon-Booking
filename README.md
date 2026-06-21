@@ -191,18 +191,6 @@ This project demonstrates practical implementation of:
 
 ---
 
-## 📈 Resume Highlights
-
-* Developed a production-ready Salon Booking Platform using Spring Boot Microservices and React.
-* Implemented secure authentication and authorization using Keycloak and JWT.
-* Designed event-driven communication using RabbitMQ.
-* Integrated Stripe and Razorpay payment gateways.
-* Built real-time notification system using WebSocket.
-* Containerized microservices using Docker and Docker Compose.
-* Implemented Service Discovery and API Gateway using Spring Cloud components.
-
----
-
 ## 👩‍💻 Author
 
 Aditi Inamdar
